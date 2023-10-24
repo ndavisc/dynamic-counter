@@ -27,7 +27,7 @@ function Counter() {
             return "gray";
         }
     };
-
+helllooooo
     return(
         <div className='counter-container'>
             <h1 style={{ color: determineColor() }}>Counter: {count}</h1>
